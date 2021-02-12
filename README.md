@@ -5,7 +5,7 @@ Welcome to the Data Structures and Algorithms III course!
 
 - [Course program](/program.md)
 
-- [Lectures](/lectures)
+- [Lectures Materials](/lectures/materials.md)
 
 - [Results](https://docs.google.com/spreadsheets/d/18BEIl1qgltp-ZMo4G4LnPifq-aVIkWvoodbCG0olEDw/edit?usp=sharing)
 
