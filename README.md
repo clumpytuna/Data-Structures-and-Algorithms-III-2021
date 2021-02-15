@@ -10,7 +10,7 @@ Welcome to the Data Structures and Algorithms III course!
 - [Results](https://docs.google.com/spreadsheets/d/18BEIl1qgltp-ZMo4G4LnPifq-aVIkWvoodbCG0olEDw/edit?usp=sharing)
 
 #### Homework
-- Coming soon! 
+- [Median Finding](/homework/homework-I.pdf) | Deadline: 28 February 23:59
 
 #### Materials:
 

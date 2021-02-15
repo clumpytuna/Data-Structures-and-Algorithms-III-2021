@@ -6,4 +6,6 @@
 ##### 1 - Median Finding
 - [Videos](https://drive.google.com/drive/folders/1BCjQsm9_U4NYfNvrDB0Md4dD9CAjBKzQ?usp=sharing)
 
-- [Lecture Notes](Lecture-1-Median%20Finding%20-%20Notes.pdf)
+- [Lecture Notes-I](Lecture-1-Median%20Finding%20-%20Notes.pdf)
+
+- [Lecture Notes-II](Lecture-1-Median%20Finding-Notes-II.pdf)
