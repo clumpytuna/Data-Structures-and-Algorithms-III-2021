@@ -9,3 +9,6 @@
 - [Lecture Notes-I](Lecture-1-Median%20Finding%20-%20Notes.pdf)
 
 - [Lecture Notes-II](Lecture-1-Median%20Finding-Notes-II.pdf)
+
+##### 2 - Quick Sort
+- [Video](https://drive.google.com/file/d/1SX_BGEqQXujq7s77ff8dD0ADUIaNRPr4/view?usp=sharing)
