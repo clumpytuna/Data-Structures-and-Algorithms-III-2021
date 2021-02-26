@@ -1,7 +1,9 @@
 ## Course program
 
 1. Introduction
-2. Quick Sort & Quick Select
+2. Median Finding. Quick Select
+3. Quick Sort
+4. Stack based on array, based on linked lists. Keeping the minimum in a stack. Correct Brackets Sequences.
 3. Minimum spanning tree: Prim's algorithm
 4. Minimum spanning tree: Kruskal's algorithm
 5. Strongly connected component finding 

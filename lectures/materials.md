@@ -12,3 +12,7 @@
 
 ##### 2 - Quick Sort
 - [Video](https://drive.google.com/file/d/1SX_BGEqQXujq7s77ff8dD0ADUIaNRPr4/view?usp=sharing)
+
+##### 2 - Stack
+- [Video](https://drive.google.com/file/d/1IzfPjLd3EDjO5vnEFSNJ1PDwsARG_XAU/view?usp=sharing)
+- [Lecture Notes](Lecture-3-Stack-Notes.pdf)
