@@ -16,3 +16,6 @@
 ##### 2 - Stack
 - [Video](https://drive.google.com/file/d/1IzfPjLd3EDjO5vnEFSNJ1PDwsARG_XAU/view?usp=sharing)
 - [Lecture Notes](Lecture-3-Stack-Notes.pdf)
+
+##### 4 - Git
+- [Video](https://drive.google.com/file/d/1KEmKCLDRuAVd6jwpG-AjICywu7DjEh8j/view?usp=sharing)
