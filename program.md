@@ -7,7 +7,8 @@
 5. Control Version Systems. Git. How to use. 
 6. Minimum spanning tree: Prim's algorithm
 7. Minimum spanning tree: Kruskal's algorithm
-8. Strongly connected component finding 
-9. Bridges & Articulation points
-10. Substrings finding. Knuth–Morris–Pratt algorithm. Prefix functions.
-11. Substrings finding. Rabin-Karp algorithm.
+8. Minimum spanning tree: Boruvka's algorithm
+9. Strongly connected component finding 
+10. Bridges & Articulation points
+11. Substrings finding. Knuth–Morris–Pratt algorithm. Prefix functions.
+12. Substrings finding. Rabin-Karp algorithm.
