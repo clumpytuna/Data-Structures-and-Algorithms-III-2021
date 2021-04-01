@@ -13,9 +13,20 @@
 ##### 2 - Quick Sort
 - [Video](https://drive.google.com/file/d/1SX_BGEqQXujq7s77ff8dD0ADUIaNRPr4/view?usp=sharing)
 
-##### 2 - Stack
+##### 3 - Stack
 - [Video](https://drive.google.com/file/d/1IzfPjLd3EDjO5vnEFSNJ1PDwsARG_XAU/view?usp=sharing)
 - [Lecture Notes](Lecture-3-Stack-Notes.pdf)
 
 ##### 4 - Git
 - [Video](https://drive.google.com/file/d/1KEmKCLDRuAVd6jwpG-AjICywu7DjEh8j/view?usp=sharing)
+
+##### 5 - MST. Prim's Algorithm
+- [Video](https://drive.google.com/file/d/1cxZnaUAH-2ttHTmmUIHwOSPsnPn4mfLj/view?usp=sharing)
+- [Notes](Lecture-5-Prim's-Algorithm.pdf)
+
+##### 6 - Kruskal's Algorithm
+- [Notes](Lecture-6-Kruskal's-Algorithm.pdf)
+
+##### 7 - Boruvka's Algorithm
+- [Video](https://drive.google.com/file/d/1t64ByXCPCoWrpjqse8nLilbKeon03eeS/view?usp=sharing)
+- [Notes](Lecture-7-Boruvka's-Algorithm.pdf)
