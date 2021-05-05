@@ -11,6 +11,7 @@ Welcome to the Data Structures and Algorithms III course!
 
 #### Homework
 - [Median Finding](/homework/homework-I.pdf) | Deadline: 28 February 23:59
+- [MST](/homework/homework-I.pdf) | Deadline: 18 April 23:59
 
 - [MST](/homework/homework-II.pdf) | Deadline: 18 April 23:59
 
