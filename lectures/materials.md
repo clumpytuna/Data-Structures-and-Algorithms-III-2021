@@ -30,3 +30,7 @@
 ##### 7 - Boruvka's Algorithm
 - [Video](https://drive.google.com/file/d/1t64ByXCPCoWrpjqse8nLilbKeon03eeS/view?usp=sharing)
 - [Notes](Lecture-7-Boruvka's-Algorithm.pdf)
+
+##### 9 - KMP Algorithm
+- [Video](https://drive.google.com/file/d/1pun5zAbnCIyv1m4SVDjL1ptcXe57QmTG/view?usp=sharing)
+- [Notes](Lecture-9-KMP.pdf)
