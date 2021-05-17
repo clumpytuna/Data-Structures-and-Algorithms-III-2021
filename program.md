@@ -1,4 +1,4 @@
-## Course program
+## Zachet program
 
 1. Median Finding. Quick Select
 2. Quick Sort
